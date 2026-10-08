@@ -1,0 +1,26 @@
+TAIWO OMONIYI — PORTFOLIO
+
+This package is a standalone website. It has no ChatGPT sign-in or platform branding.
+
+UPLOAD FROM IPHONE
+1. Save the ZIP to Files. Tap the ZIP in Files to extract it.
+2. Open github.com in Safari and sign in as therealayor1.
+3. Create a new PUBLIC repository called taiwo-video-portfolio. Add a README when creating it.
+4. In the repository, choose Add file > Upload files. If hidden, use Safari's Request Desktop Website.
+5. Choose the extracted files INSIDE Taiwo-Portfolio, including index.html, all MP4s and all JPGs. Upload the files, not the ZIP. They all belong at the repository root; no asset subfolder is needed.
+6. Commit the upload. You may upload in smaller batches if the phone struggles.
+7. Open Settings > Pages. Select Deploy from a branch, main, /(root), then Save.
+8. Wait for GitHub to show the published website URL. Test the videos and links before applying.
+
+Expected address after successful publication:
+https://therealayor1.github.io/taiwo-video-portfolio/
+This is not live until the upload and Pages setup are complete.
+
+CONTACT LINKS
+Email: taiwoomoniyi90@gmail.com
+WhatsApp: +234 906 976 7455
+TikTok: https://www.tiktok.com/@lyricsoffaith0
+
+WORK NOTES
+The three Lyrics of Faith videos are supplied work samples.
+The Fieldnotes travel and Framework marketing videos are newly prepared portfolio concepts for fictional brands, built with original graphics, animated typography and synthesized instrumental audio. They are not paid client projects or evidence of travel filming. Describe your own contribution accurately if asked.
